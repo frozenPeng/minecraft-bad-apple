@@ -1,1 +1,1 @@
-Bad Apple in Minecraft
+Bad Apple Plugin for Minecraft Java Edition
