@@ -39,7 +39,7 @@ def save_frames(video_path, output_folder, resize_width=None, resize_height=None
 
 # Example usage
 video_path = "./bad_apple.mp4"  # Provide path to your video file
-output_folder = "./bad_apple"  # Output folder where frames will be saved
+output_folder = "./bad_apple_frames"  # Output folder where frames will be saved
 resize_width = 160  # Adjust width as needed
 resize_height = 120  # Adjust height as needed
 save_frames(video_path, output_folder, resize_width, resize_height)
